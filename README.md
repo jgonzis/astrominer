@@ -1,0 +1,1 @@
+# astrominer for HiveOS
